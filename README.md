@@ -1,1 +1,1 @@
-# light_cover_cad
+# Cover to block street lighting in residential areas done for VTelectric
